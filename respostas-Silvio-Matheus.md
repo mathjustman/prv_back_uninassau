@@ -5,6 +5,6 @@
 5. branch desenvolve projetos e desenvolver funcionalidades separadas
 6. é uma forma de fazer alteração de uma branch pra outra permitindo fazer alteração
 7. origem é onde estão as mudanças e destino para onde eu quero enviar 
-8. da conglito e é preciso resolver manualmente 
-9. fala quais arquivos o git tem que ignorar 
-10. documentação original do projeto                 
+8. da conglito e é preciso resolver manualmente.
+9. fala quais arquivos o git tem que ignorar. 
+10. documentação original do projeto.

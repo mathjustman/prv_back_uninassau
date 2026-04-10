@@ -23,7 +23,7 @@ Exemplo:
 ## Arquivo de respostas
 Crie um arquivo na raiz do projeto com o nome:
 
-`respostas-<seu-nome-sobrenome>.md`
+
 
 Exemplo:
 
